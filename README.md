@@ -43,6 +43,17 @@ the Chief Risk Officer and collections team.
 - /powerbi — Power BI report file (.pbix)
 - /screenshots — Dashboard preview images
 
+  ## Dashboard Preview
+
+### Executive Summary
+![Executive Summary](screenshots/page1_executive_summary.png)
+
+### Risk Analysis
+![Risk Analysis](screenshots/page2_risk_analysis.png)
+
+### Borrower Detail
+![Borrower Detail](screenshots/page3_borrower_detail.png)
+
 ## Data Source
 GiveMeSomeCredit dataset from Kaggle. Due to licensing the raw 
 data is not included. Download instructions at:
